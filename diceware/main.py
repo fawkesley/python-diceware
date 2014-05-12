@@ -19,7 +19,7 @@ Options:
 from __future__ import unicode_literals
 
 from docopt import docopt
-from diceware import generate_passphrase
+from .diceware import generate_passphrase
 
 
 def main():

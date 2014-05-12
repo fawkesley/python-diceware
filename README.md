@@ -1,5 +1,6 @@
 # Generate Diceware Passphrase
 
+[![Build Status](https://travis-ci.org/paulfurley/generate-diceware-passphrase-python.svg)](https://travis-ci.org/paulfurley/generate-diceware-passphrase-python)
 **NOT READY FOR PRIMETIME**
 
 Generate a random, memorable pass-phrase, for example `kirby bang basin flux chill memo`

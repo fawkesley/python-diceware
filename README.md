@@ -45,6 +45,6 @@ This is implemented against the advice of, but in accordance with the [suggestio
 on the Diceware website](http://world.std.com/~reinhold/dicewarefaq.html#computer),
 namely:
 
-- [ ] uses `os.urandom()` for entropy, which is preferable to Python's
+- uses `os.urandom()` for entropy, which is preferable to Python's
 [(less secure random module)](https://docs.python.org/2/library/random.html).
 - uses the 2^13 long wordlist `diceware8k.txt` of mostly English words
